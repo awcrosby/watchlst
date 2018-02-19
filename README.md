@@ -1,5 +1,5 @@
 # watchlst
-Issue repo for watchlst.com
+Issue repo for [watchlst.com](https://watchlst.com)
 
 # Description
 
