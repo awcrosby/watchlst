@@ -1,7 +1,7 @@
 # watchlst
 Issue repo for [watchlst.com](https://watchlst.com)
 
-# Description
+## Description
 
 Project to create a watchlist of movies and tv shows, allows search for media and displays streaming sources. Watchlist media can be filtered on the front end.
 
